@@ -1,0 +1,15 @@
+version="0.0.1"
+tags={
+	"Map"
+	"Expansion"
+	"Gameplay"
+	"Balance"
+	"Events"
+	"Historical"
+	"Missions And Decisions"
+	"Religion"
+	"New Nations"
+	"National Ideas"
+}
+name="Shogun's Map Expansion"
+supported_version="v1.37.5.0"
