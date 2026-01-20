@@ -2,8 +2,8 @@
 
 owner = QAR
 controller = QAR
-culture = azerbaijani
-religion = shiite
+culture = armenian
+religion = coptic
 capital = "Ganja"
 trade_goods = cotton
 hre = no
