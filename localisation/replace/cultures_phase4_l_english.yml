@@ -5,7 +5,7 @@
  aka:1 "Akan"
  gulf_arabic:0 "Khaleeji"
  al_iraqiya_arabic:0 "Mashriqi"
- al_misr_arabic:0 "Egyptian"
+ al_misr_arabic:0 "Misri"
  al_suryah_arabic:0 "Syrian"
  albanian:0 "Albanian"
  aleutian:0 "Aleutian"
@@ -359,7 +359,7 @@
  afghani:0 "Afghan"
  mazandarani:0 "Mazandarani"
  caucasian:0 "Caucasian"
- circassian:0 "Circassian"
+ circassian:0 "Adyghe"
  dagestani:0 "Dagestani"
  azerbaijani:0 "Azerbaijani"
  mande:0 "Mande"
@@ -525,6 +525,10 @@
  kulin:0 "Kulin"
  
  cappadocian_greek:0 "Cappadocian"
+ 
+ greater_armenian: "Greater Armenian"
+ kartvelian: "Kartvelian"
+ circassic: "Circassic"
  
  gilaki: "Gilaki"
  tajik: "Tajik"
