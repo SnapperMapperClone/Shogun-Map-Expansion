@@ -3,7 +3,7 @@
 owner = CHG
 controller = CHG
 add_core = CHG
-culture = khazak
+culture = moghul
 religion = sunni
 capital = "Karamegdan"
 trade_goods = wool

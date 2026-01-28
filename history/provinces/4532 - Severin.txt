@@ -2,7 +2,7 @@
 
 owner = WAL
 controller = WAL  
-culture = romanian
+culture = wallachian
 religion = orthodox
 capital = "Severin"
 trade_goods = livestock

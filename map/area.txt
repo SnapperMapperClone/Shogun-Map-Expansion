@@ -1073,7 +1073,7 @@ bulgaria_area = { #5
 }
 
 silistria_area = {
-	4704 4706 159
+	4704 4706 4942 159
 }
 
 wallachia_area = { #5

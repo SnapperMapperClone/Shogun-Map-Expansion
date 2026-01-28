@@ -526,12 +526,20 @@
  
  cappadocian_greek:0 "Cappadocian"
  
+ dacian: "Dacian"
+ wallachian: "Wallachian"
+ moldavian: "Moldovan"
+ 
  greater_armenian: "Greater Armenian"
  kartvelian: "Kartvelian"
  circassic: "Circassic"
+ oghuz: "Oghuz"
+ karluk: "Karluk"
  
  gilaki: "Gilaki"
  tajik: "Tajik"
  pamiri: "Pamiri"
  talysh: "Talysh"
  semnani: "Semnani"
+ 
+ moghul: "Moghul"
