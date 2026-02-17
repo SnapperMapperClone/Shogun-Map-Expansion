@@ -47,8 +47,6 @@ HUN	= "countries/Hungary.txt"
 SLO = "countries/Slovakia.txt"
 TUR	= "countries/Ottomans.txt"
 
-LVC = "countries/Lovech.txt"
-
 #British Isles 
 CNN = "countries/Connacht.txt"
 CRN	= "countries/Cornwall.txt"
